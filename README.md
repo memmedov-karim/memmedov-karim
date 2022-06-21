@@ -10,5 +10,7 @@
 ###############################################################################
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=memmedov-karim&theme=radical)
 
+![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=memmedov-karim&show_icons=true&theme=radical)
+
 
 
