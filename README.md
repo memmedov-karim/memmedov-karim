@@ -7,8 +7,7 @@
 - 🌱 I’m - currently - learning -- mathematic ---| - 🌱Python                                                        
 - 🌱 I’m currently learning Full-Stack developing ---|-🌱Arduino Programming(Software and Hardware)                                                                                  
 - 💬 Ask me about mathematics,arduino hardware and software configuration ---|-🌱MongoDb(DB)                                                          
-###############################################################################
-<img src="https://img.shields.io/badge/-HTML-e34f26?logo=html5&logoColor=fff"><img src="https://img.shields.io/badge/-PYTHON-3776AB?logo=python&logoColor=yellow"><img src="https://img.shields.io/badge/-PYTHON-3776AB?logo=python&logoColor=yellow"><img src="https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=fff">
+<img src="https://img.shields.io/badge/-HTML-e34f26?logo=html5&logoColor=fff">  <img src="https://img.shields.io/badge/-PYTHON-3776AB?logo=python&logoColor=yellow">   <img src="https://img.shields.io/badge/-PYTHON-3776AB?logo=python&logoColor=yellow">  <img src="https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=fff">
 
 
 
