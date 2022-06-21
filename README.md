@@ -8,6 +8,7 @@
 - 🌱 I’m currently learning Full-Stack developing ---|-🌱Arduino Programming(Software and Hardware)                                                                                  
 - 💬 Ask me about mathematics,arduino hardware and software configuration ---|-🌱MongoDb(DB)                                                          
 ###############################################################################
+<img src="https://img.shields.io/badge/-HTML-e34f26?logo=html5&logoColor=fff">
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=memmedov-karim&theme=radical)
 
 ![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=memmedov-karim&show_icons=true&theme=radical)
