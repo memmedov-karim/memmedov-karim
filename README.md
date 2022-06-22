@@ -19,7 +19,7 @@
  - <hr>
  - <strong>Back-End:</strong> <img src="https://img.shields.io/badge/-NODE%20JS-339933?logo=nodejs&logoColor=red">    <img src="https://img.shields.io/badge/-MONGODB-47A248?logo=mongodb&logoColor=red">
  - <hr>
- - <strong>OS:</strong> <img src="https://img.shields.io/badge/-KALI%20LINUX-557C94?logo=kalil%20inux&logoColor=red">
+ - <strong>OS:</strong> <img src="https://img.shields.io/badge/-KALI%20LINUX-557C94?logo=kalil%20inux&logoColor=red">  <img src="https://img.shields.io/badge/-Windows-0078D6logo=windows&logoColor=red">
  - <hr>
  - <strong>Robotics:</strong> <img src="https://img.shields.io/badge/-ARDUINO-00979D?logo=arduino&logoColor=red">
  - <hr>
@@ -29,12 +29,13 @@
 
  - 🌱 I practise in  these platforms
  <img src="https://img.shields.io/badge/-CODECHEF-5B4638?logo=codechef&logoColor=red">  <img src="https://img.shields.io/badge/-CODEWARS-B1361E?logo=codewars&logoColor=red">  <img src="https://img.shields.io/badge/-LEETCODE-FFA116?logo=leetcode&logoColor=red">  <img src="https://img.shields.io/badge/-THE%20ALGORITHMS-00BCB4?logo=thealgorithms&logoColor=red">  <img src="https://img.shields.io/badge/-HackerEarth-00EA64?logo=hackerearth&logoColor=red">  <img src="https://img.shields.io/badge/-HackerRank-2C3454logo=hackerrank&logoColor=red">
-
-
+ - <hr>
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=memmedov-karim&theme=radical)
+- <hr>
 
 ![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=memmedov-karim&show_icons=true&theme=radical)
+- <hr>
 
 
 
