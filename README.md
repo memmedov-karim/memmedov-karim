@@ -29,6 +29,12 @@
 
  -<strong>I practise in  these platforms</strong>
  <img src="https://img.shields.io/badge/-EOlymp-0078D6logo=eolymp&logoColor=red">  <img src="https://img.shields.io/badge/-CODECHEF-5B4638?logo=codechef&logoColor=red">  <img src="https://img.shields.io/badge/-CODEWARS-B1361E?logo=codewars&logoColor=red">  <img src="https://img.shields.io/badge/-LEETCODE-FFA116?logo=leetcode&logoColor=red">  <img src="https://img.shields.io/badge/-THE%20ALGORITHMS-00BCB4?logo=thealgorithms&logoColor=red">  <img src="https://img.shields.io/badge/-HackerEarth-00EA64?logo=hackerearth&logoColor=red">  <img src="https://img.shields.io/badge/-HackerRank-2C3454logo=hackerrank&logoColor=red">
+ <ol>
+ <li><a href="https://www.eolymp.com/az/users/sixkerim">E-Olymp</a></li>
+ <li><a href="https://leetcode.com/Karimmammadov/">LeetCode</a></li>
+ <li><a href="https://www.codechef.com/users/kerim_288">CodeChef</a></li>
+ <li><a href="https://www.hackerrank.com/sixkerimmemmedo1">HackerRank</a></li>
+ </ol>
  - <hr>
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=memmedov-karim&theme=radical)
