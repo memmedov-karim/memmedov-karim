@@ -35,7 +35,7 @@
  <li><a href="https://www.codechef.com/users/kerim_288">CodeChef</a></li>
  <li><a href="https://www.hackerrank.com/sixkerimmemmedo1">HackerRank</a></li>
  </ol>
- - <hr>
+- <hr>
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=memmedov-karim&theme=radical)
 - <hr>
