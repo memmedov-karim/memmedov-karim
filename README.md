@@ -13,7 +13,7 @@
 - <hr>                                                                                 
 - 💬 <i>Ask me about mathematics,arduino hardware and software configuration ---|</i>
 - <hr>
- - 🌱 <strong>I'm interesting these</strong>       
+ -<strong>I'm interesting these</strong>       
  - <hr>
  - <strong>Front-End:</strong> <img src="https://img.shields.io/badge/-HTML-e34f26?logo=html5&logoColor=fff">    <img src="https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=fff">   <img src="https://img.shields.io/badge/-JAVASCRIPT-F7DF1E?logo=javascript&logoColor=red">   <img src="https://img.shields.io/badge/-REACT%20JS-61DAFB?logo=reactjs&logoColor=red">
  - <hr>
@@ -27,7 +27,7 @@
  - <hr>                        
          
 
- - 🌱 <strong>I practise in  these platforms</strong>
+ <strong>I practise in  these platforms</strong>
  <img src="https://img.shields.io/badge/-CODECHEF-5B4638?logo=codechef&logoColor=red">  <img src="https://img.shields.io/badge/-CODEWARS-B1361E?logo=codewars&logoColor=red">  <img src="https://img.shields.io/badge/-LEETCODE-FFA116?logo=leetcode&logoColor=red">  <img src="https://img.shields.io/badge/-THE%20ALGORITHMS-00BCB4?logo=thealgorithms&logoColor=red">  <img src="https://img.shields.io/badge/-HackerEarth-00EA64?logo=hackerearth&logoColor=red">  <img src="https://img.shields.io/badge/-HackerRank-2C3454logo=hackerrank&logoColor=red">
  - <hr>
 
