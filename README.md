@@ -27,7 +27,7 @@
  - <hr>                        
          
 
- - <strong>I practise in  these platforms</strong>
+ -<strong>I practise in  these platforms</strong>
  <img src="https://img.shields.io/badge/-CODECHEF-5B4638?logo=codechef&logoColor=red">  <img src="https://img.shields.io/badge/-CODEWARS-B1361E?logo=codewars&logoColor=red">  <img src="https://img.shields.io/badge/-LEETCODE-FFA116?logo=leetcode&logoColor=red">  <img src="https://img.shields.io/badge/-THE%20ALGORITHMS-00BCB4?logo=thealgorithms&logoColor=red">  <img src="https://img.shields.io/badge/-HackerEarth-00EA64?logo=hackerearth&logoColor=red">  <img src="https://img.shields.io/badge/-HackerRank-2C3454logo=hackerrank&logoColor=red">
  - <hr>
 
