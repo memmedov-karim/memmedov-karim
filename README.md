@@ -48,8 +48,7 @@
 ![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=memmedov-karim&show_icons=true&theme=radical)
 - <hr>
 
-![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=memmedov-karim&theme=radical&background=000000)
-- <hr>
+
 
 
 
