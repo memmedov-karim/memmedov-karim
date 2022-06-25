@@ -40,7 +40,7 @@
  <li><a href="https://www.hackerrank.com/sixkerimmemmedo1">HackerRank</a></li>
  </ol>
 - <hr>
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=memmedov-karim&theme=dark&background=000000)](https://git.io/streak-stats)
+![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=memmedov-karim&theme=dark&background=000000)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=memmedov-karim&theme=radical)
 - <hr>
