@@ -51,8 +51,14 @@
 
 <h2>My Works </h2>
 <ol>
-<li><a target="blank" href="https://memmedov-karim.github.io/EasyGroupSetup/">Random Groups Seperate<a/></li>
-<li><a target="blank" href="https://memmedov-karim.github.io/TicTacToe_withReact/">TicTacToe_ReactGame<a/></li>
+  <li><a target="blank" href="https://memmedov-karim.github.io/EasyGroupSetup/">Random Groups Seperate<a/></li>
+  <li><a target="blank" href="https://memmedov-karim.github.io/TicTacToe_withReact/">TicTacToe ReactGame<a/></li>
+  <li><a target="blank" href=" https://memmedov-karim.github.io/Category-Product-connection-API-/">Product Category Connection<a/></li>
+  <li><a target="blank" href="https://memmedov-karim.github.io/WeatherApp/">Weather App Js<a/></li>
+  <li><a target="blank" href="https://memmedov-karim.github.io/Advanced_Calculator/">Advanced Calculator<a/></li>
+  <li><a target="blank" href="https://memmedov-karim.github.io/Valyuta-Application/">Valyuta Exchange<a/></li>
+  <li><a target="blank" href="https://memmedov-karim.github.io/Tracker-Application/">Tracker Application<a/></li>
+  <li><a target="blank" href="https://memmedov-karim.github.io/Count-Down-Timer/">Countdown Timer<a/></li>
 <ol/>
 
 
