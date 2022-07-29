@@ -3,8 +3,8 @@
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
-<h2>My Works </h2>
-<ol>
+- <h2>My Works </h2>
+- <ol>
   <li><a target="blank" href="https://memmedov-karim.github.io/ToDoAppWithReactRedux/">ToDo Application with React,Redux<a/></li>
   <li><a target="blank" href="https://memmedov-karim.github.io/EasyGroupSetup/">Random Groups Seperate<a/></li>
   <li><a target="blank" href="https://memmedov-karim.github.io/TicTacToe_withReact/">TicTacToe ReactGame<a/></li>
@@ -14,7 +14,7 @@
   <li><a target="blank" href="https://memmedov-karim.github.io/Valyuta-Application/">Valyuta Exchange<a/></li>
   <li><a target="blank" href="https://memmedov-karim.github.io/Tracker-Application/">Tracker Application<a/></li>
   <li><a target="blank" href="https://memmedov-karim.github.io/Count-Down-Timer/">Countdown Timer<a/></li>
-<ol/>
+- <ol/>
 
 
 ###############################################################################
