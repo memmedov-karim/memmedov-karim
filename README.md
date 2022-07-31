@@ -4,7 +4,13 @@
   </a>
 </div>
 <hr>
-
+<h2>My Cerficates</h2>
+<ol>
+  <li><a href="https://www.hackerrank.com/certificates/d1d4b4b40e0c">Python skill cerficate from Hackerrank</a></li>
+  <li><a href="https://www.hackerrank.com/certificates/855c3e400598" >JavaScript skill cerficate from Hackerrank</a></li>
+  <li><a href="https://drive.google.com/file/d/1oHm3w6kGVGOsm8ZnuO4neMDM2gdYRDri/view">Global Programming Competition,SnackDown 2021</a></li>
+  <li><a href="https://drive.google.com/file/d/1AL1DGykg1JO1adURDfRo65v_yAhk6k9E/view?usp=sharing">The 2020 Azerbaijan Regional Contest,Honorable Mention</a></li>
+</ol>
 
 - 🌱 <i>I'm --------------- Math ----------- DEV ---|</i>
 - <hr>                                                          
@@ -63,13 +69,7 @@
   <li><a target="blank" href="https://memmedov-karim.github.io/Count-Down-Timer/">Countdown Timer<a/></li>
 <ol/>
 <hr>
-<h2>My Cerficates</h2>
-<ol>
-<li><a href="https://www.hackerrank.com/certificates/d1d4b4b40e0c">Python skill cerficate from Hackerrank</a></li>
-<li><a href="https://www.hackerrank.com/certificates/855c3e400598" >JavaScript skill cerficate from Hackerrank</a></li>
-<li><a href="https://drive.google.com/file/d/1oHm3w6kGVGOsm8ZnuO4neMDM2gdYRDri/view">Global Programming Competition,SnackDown 2021</a></li>
-<li><a href="https://drive.google.com/file/d/1AL1DGykg1JO1adURDfRo65v_yAhk6k9E/view?usp=sharing">The 2020 Azerbaijan Regional Contest,Honorable Mention</a></li>
-</ol>
+
 
 
 
