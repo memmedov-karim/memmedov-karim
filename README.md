@@ -12,6 +12,19 @@
   <li><a href="https://drive.google.com/file/d/1AL1DGykg1JO1adURDfRo65v_yAhk6k9E/view?usp=sharing">The 2020 Azerbaijan Regional Contest,Honorable Mention</a></li>
 </ol>
 
+<h2>My Works </h2>
+<ol>
+  <li><a target="blank" href="https://memmedov-karim.github.io/ToDoAppWithReactRedux/">ToDo Application with React,Redux<a/></li>
+  <li><a target="blank" href="https://memmedov-karim.github.io/EasyGroupSetup/">Random Groups Seperate<a/></li>
+  <li><a target="blank" href="https://memmedov-karim.github.io/TicTacToe_withReact/">TicTacToe ReactGame<a/></li>
+  <li><a target="blank" href="https://memmedov-karim.github.io/Category-Product-connection-API-/">Product Category Connection<a/></li>
+  <li><a target="blank" href="https://memmedov-karim.github.io/WeatherApp/">Weather App Js<a/></li>
+  <li><a target="blank" href="https://memmedov-karim.github.io/Advanced_Calculator/">Advanced Calculator<a/></li>
+  <li><a target="blank" href="https://memmedov-karim.github.io/Valyuta-Application/">Valyuta Exchange<a/></li>
+  <li><a target="blank" href="https://memmedov-karim.github.io/Tracker-Application/">Tracker Application<a/></li>
+  <li><a target="blank" href="https://memmedov-karim.github.io/Count-Down-Timer/">Countdown Timer<a/></li>
+<ol/>
+
 - 🌱 <i>I'm --------------- Math ----------- DEV ---|</i>
 - <hr>                                                          
 - 🌱 <i>I'm --------------- Web ------ Developer ---|</i>
@@ -56,19 +69,8 @@
 ![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=memmedov-karim&show_icons=true&theme=radical)
 - <hr>
 
-<h2>My Works </h2>
-<ol>
-  <li><a target="blank" href="https://memmedov-karim.github.io/ToDoAppWithReactRedux/">ToDo Application with React,Redux<a/></li>
-  <li><a target="blank" href="https://memmedov-karim.github.io/EasyGroupSetup/">Random Groups Seperate<a/></li>
-  <li><a target="blank" href="https://memmedov-karim.github.io/TicTacToe_withReact/">TicTacToe ReactGame<a/></li>
-  <li><a target="blank" href="https://memmedov-karim.github.io/Category-Product-connection-API-/">Product Category Connection<a/></li>
-  <li><a target="blank" href="https://memmedov-karim.github.io/WeatherApp/">Weather App Js<a/></li>
-  <li><a target="blank" href="https://memmedov-karim.github.io/Advanced_Calculator/">Advanced Calculator<a/></li>
-  <li><a target="blank" href="https://memmedov-karim.github.io/Valyuta-Application/">Valyuta Exchange<a/></li>
-  <li><a target="blank" href="https://memmedov-karim.github.io/Tracker-Application/">Tracker Application<a/></li>
-  <li><a target="blank" href="https://memmedov-karim.github.io/Count-Down-Timer/">Countdown Timer<a/></li>
-<ol/>
-<hr>
+
+
 
 
 
