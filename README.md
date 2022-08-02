@@ -23,7 +23,7 @@
   <li><a target="blank" href="https://memmedov-karim.github.io/Valyuta-Application/">Valyuta Exchange<a/></li>
   <li><a target="blank" href="https://memmedov-karim.github.io/Tracker-Application/">Tracker Application<a/></li>
   <li><a target="blank" href="https://memmedov-karim.github.io/Count-Down-Timer/">Countdown Timer<a/></li>
-  <li><a target="blank" href="https://memmedov-karim.github.io/figma_work/"><a/><li/>
+  <li><a target="blank" href="https://memmedov-karim.github.io/figma_work/">Figma Layoult<a/><li/>
 <ol/>
 
 - 🌱 <i>I'm --------------- Math ----------- DEV ---|</i>
