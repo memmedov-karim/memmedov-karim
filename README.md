@@ -11,7 +11,11 @@
   <li><a href="https://drive.google.com/file/d/1oHm3w6kGVGOsm8ZnuO4neMDM2gdYRDri/view">Global Programming Competition,SnackDown 2021</a></li>
   <li><a href="https://drive.google.com/file/d/1AL1DGykg1JO1adURDfRo65v_yAhk6k9E/view?usp=sharing">The 2020 Azerbaijan Regional Contest,Honorable Mention</a></li>
 </ol>
-
+<h2>My money-making jobs</h2>
+<ol>
+  <li><a target="blank" href="https://imtahan.vercel.app/">Site to learn exam result working with courses<a/></li>
+  <li><a target="blank" href="https://fastersearch.vercel.app/">Faster in XLSX file working with government agencies<a/></li>
+<ol/>
 <h2>My Works </h2>
 <ol>
   <li><a target="blank" href="https://memmedov-karim.github.io/ToDoAppWithReactRedux/">ToDo Application with React,Redux<a/></li>
