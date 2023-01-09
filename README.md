@@ -10,6 +10,9 @@
   <li><a href="https://www.hackerrank.com/certificates/855c3e400598" >JavaScript skill cerficate from Hackerrank</a></li>
   <li><a href="https://drive.google.com/file/d/1oHm3w6kGVGOsm8ZnuO4neMDM2gdYRDri/view">Global Programming Competition,SnackDown 2021</a></li>
   <li><a href="https://drive.google.com/file/d/1AL1DGykg1JO1adURDfRo65v_yAhk6k9E/view?usp=sharing">The 2020 Azerbaijan Regional Contest,Honorable Mention</a></li>
+  <li><a href="https://drive.google.com/file/d/1r8w_xKJyU4OXyG3Jo_jS97MaZS8NZMQh/view?usp=sharing">The 2021 Azerbaijan Regional Contest,Honorable Mention</a></li>
+  <li><a href="https://drive.google.com/file/d/1cJWwpw1ehEecZEoA8bJaTna1AhPXind9/view?usp=sharing">Bronze medal of Mathematic olympiad of Azerbaijan</a></li>
+  <li><a href="https://drive.google.com/file/d/1oouH60xq481QR0eQc_JHTBEvhmaEDzNe/view?usp=sharing">International mathematic olympiad</a></li>
 </ol>
 <h2>My money-making jobs</h2>
 <ol>
