@@ -17,11 +17,10 @@
 <h2>My money-making jobs</h2>
 <ol>
   <li><a target="blank" href="https://imtahan.vercel.app/">Site to learn exam result working with courses<a/></li>
-  <li><a target="blank" href="https://fastersearch.vercel.app/">Faster in XLSX file working with government agencies<a/></li>
+  <li><a target="blank" href="https://axtar.vercel.app/">Faster in XLSX file working with government agencies<a/></li>
 <ol/>
 <h2>My Works </h2>
 <ol>
-  <li><a target="blank" href="https://memmedov-karim.github.io/ToDoAppWithReactRedux/">ToDo Application with React,Redux<a/></li>
   <li><a target="blank" href="https://memmedov-karim.github.io/EasyGroupSetup/">Random Groups Seperate<a/></li>
   <li><a target="blank" href="https://memmedov-karim.github.io/TicTacToe_withReact/">TicTacToe ReactGame<a/></li>
   <li><a target="blank" href="https://memmedov-karim.github.io/Category-Product-connection-API-/">Product Category Connection<a/></li>
