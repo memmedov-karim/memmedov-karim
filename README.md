@@ -16,8 +16,8 @@
 </ol>
 <h2>My money-making jobs</h2>
 <ol>
-  <li><a target="blank" href="https://imtahan.vercel.app/">Site to learn exam result working with courses<a/></li>
-  <li><a target="blank" href="https://axtar.vercel.app/">Faster in XLSX file working with government agencies<a/></li>
+  <li><a target="blank" href="https://www.teamportal.info/">TeamPortal exam managment system<a/></li>
+  <li><a target="blank" href="https://www.kingjob.pro/">KingJob application tracking system<a/></li>
 <ol/>
 <h2>My Works </h2>
 <ol>
