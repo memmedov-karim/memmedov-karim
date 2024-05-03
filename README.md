@@ -4,6 +4,7 @@
   </a>
 </div>
 <hr>
+<div>
 <h2>My Cerficates</h2>
 <ol>
   <li><a href="https://www.hackerrank.com/certificates/d1d4b4b40e0c">Python skill cerficate from Hackerrank</a></li>
@@ -14,12 +15,16 @@
   <li><a href="https://drive.google.com/file/d/1cJWwpw1ehEecZEoA8bJaTna1AhPXind9/view?usp=sharing">Bronze medal of Mathematic olympiad of Azerbaijan</a></li>
   <li><a href="https://drive.google.com/file/d/1oouH60xq481QR0eQc_JHTBEvhmaEDzNe/view?usp=sharing">International mathematic olympiad</a></li>
 </ol>
+</div>
+<div>
 <h2>My money-making jobs</h2>
 <ol>
   <li><a target="blank" href="https://www.teamportal.info/">TeamPortal exam managment system<a/></li>
   <li><a target="blank" href="https://www.kingjob.pro/">KingJob application tracking system<a/></li>
 <ol/>
-<h2>My Works </h2>
+  </div>
+  <div>
+<h2>My Works</h2>
 <ol>
   <li><a target="blank" href="https://memmedov-karim.github.io/EasyGroupSetup/">Random Groups Seperate<a/></li>
   <li><a target="blank" href="https://memmedov-karim.github.io/TicTacToe_withReact/">TicTacToe ReactGame<a/></li>
@@ -31,6 +36,7 @@
   <li><a target="blank" href="https://memmedov-karim.github.io/Count-Down-Timer/">Countdown Timer<a/></li>
   <li><a target="blank" href="https://memmedov-karim.github.io/figma_work/">Figma Layoult<a/><li/>
 <ol/>
+  </div>
 <h2>Interest<h2/> 
 
 - 🌱 <i>I'm --------------- Math ----------- DEV ---|</i>
