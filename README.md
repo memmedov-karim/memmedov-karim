@@ -18,17 +18,6 @@
 - [TeamPortal Exam Management System](https://www.teamportal.info/)
 - [KingJob Application Tracking System](https://www.kingjob.pro/)
 
-### My Works
-- [Random Groups Separator](https://memmedov-karim.github.io/EasyGroupSetup/)
-- [TicTacToe React Game](https://memmedov-karim.github.io/TicTacToe_withReact/)
-- [Product Category Connection](https://memmedov-karim.github.io/Category-Product-connection-API-/)
-- [Weather App Js](https://memmedov-karim.github.io/WeatherApp/)
-- [Advanced Calculator](https://memmedov-karim.github.io/Advanced_Calculator/)
-- [Valyuta Exchange](https://memmedov-karim.github.io/Valyuta-Application/)
-- [Tracker Application](https://memmedov-karim.github.io/Tracker-Application/)
-- [Countdown Timer](https://memmedov-karim.github.io/Count-Down-Timer/)
-- [Figma Layout](https://memmedov-karim.github.io/figma_work/)
-
 ## Interests
 - Web Development (HTML, CSS, JavaScript, React,Node Js,Java,Express Js,Java-Spring-Boot,Mongo Db,Mysql)
 - Full-Stack Development
