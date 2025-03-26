@@ -15,6 +15,8 @@
 - [International Mathematical Olympiad](https://drive.google.com/file/d/1oouH60xq481QR0eQc_JHTBEvhmaEDzNe/view?usp=sharing)
 
 ### Money-making Jobs
+- [Azerbaijan Educational News portal](https://muallim.edu.az/)
+- [International Opportunities portal](https://test.edu-live.com/)
 - [TeamPortal Exam Management System](https://www.teamportal.info/)
 - [KingJob Application Tracking System](https://www.kingjob.pro/)
 
