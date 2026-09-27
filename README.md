@@ -1,4 +1,4 @@
-<h1 align="center">Karim Mammadov</h1>
+<h1 align="center">Shikhkarim Mammadov</h1>
 
 <p align="center">
   <b>Full-stack engineer · developer tooling &amp; platform engineering</b><br/>
