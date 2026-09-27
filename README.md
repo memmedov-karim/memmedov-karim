@@ -8,7 +8,7 @@
 
 <p align="center">
   <a href="https://callman.io"><img src="https://img.shields.io/badge/Product-callman.io-FF3C7E?style=for-the-badge&logo=hoppscotch&logoColor=white" alt="Callman"/></a>
-  <a href="https://www.npmjs.com/~memmedov-karim"><img src="https://img.shields.io/badge/npm-packages-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="npm"/></a>
+  <a href="https://www.npmjs.com/~shikhkarim"><img src="https://img.shields.io/badge/npm-packages-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="npm"/></a>
   <a href="https://leetcode.com/Karimmammadov/"><img src="https://img.shields.io/badge/LeetCode-profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/></a>
   <a href="https://www.hackerrank.com/sixkerimmemmedo1"><img src="https://img.shields.io/badge/HackerRank-profile-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank"/></a>
 </p>
